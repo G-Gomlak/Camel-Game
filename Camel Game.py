@@ -61,7 +61,7 @@ elif choice == '1':
                 print()
                 print("Your Thirst:", thirst)
                 print("Drinks Left:", canteen)
-                print("Camel Drowssiness:", camelTired)
+                print("Camel Drowsiness:", camelTired)
                 print("Natives:", natives, "miles behind you")
                 print("Miles Travled:", milesTraveled, "miles")
                 print()
